@@ -1,4 +1,3 @@
-#Babel
-####study for checking possibilities of DL tools in creating artificial languages
-##Approach 1: Making new wordbase from existing vector embedding
-work in progress. If succeed next step will be creating artificial vector spaces
+# Encoding continuous vector spaces into discrete sequences
+### An attempt on encoding vectors from given embedding into discrete language-like sequence set and decoding it back
+experiment on embedding model from http://dsmodels.nlp.ipipan.waw.pl/
